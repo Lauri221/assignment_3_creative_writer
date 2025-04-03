@@ -1,0 +1,6 @@
+# API keys
+openai_api_key.txt
+*.key
+
+# Environment variables
+.env
